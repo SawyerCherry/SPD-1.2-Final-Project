@@ -1,1 +1,9 @@
-asfaf
+body {
+    background-color: #d3d3d3;
+}
+.big {
+    display: flex;
+    justify-content: center;
+    font-size: 5em;
+    
+}
