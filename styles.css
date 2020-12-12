@@ -1,4 +1,10 @@
 body {
+    background-color: #FFFAE2;
+}
+.container {
+    margin-top: 15px;
+}
+.contact-body {
     background-color: #92977E;
 }
 .big {
@@ -13,8 +19,38 @@ body {
     border-radius: 10px 10px 10px 10px;
     margin-left: 10px;
     margin-top: 10px;
+    border: 2px solid black;
+}
+.blocky {
+    border-radius: 10px 10px 10px 10px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    border: 2px solid black;
 }
 .hugecard {
     margin-top: 10px;
+}
+
+.jumbotron-fluid {
+    margin-top: 15px;
+    background-color: #FFFAE2;
+}
+.btn {
+    background-color: lightgray;
+    border: none;
+    color: black;
+}
+.card {
+    margin-top: 15px;
+    background-color: #92977E;
+}
+.card-header  {
+    background-color: #92977E;
+}
+.card
+
+.card-footer {
+    background-color: #92977E;
+    color: black;
 }
 
